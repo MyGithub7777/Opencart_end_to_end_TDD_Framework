@@ -19,6 +19,7 @@ screenshots/**/*.png
 .classpath
 .project
 .settings/
+bin/
 
 # Operating system files
 .DS_Store
