@@ -1,0 +1,27 @@
+# Compiled Java files
+*.class
+
+# Maven build output
+target/
+
+# TestNG generated reports
+test-output/
+
+# Generated logs
+*.log
+logs/
+
+# Screenshots generated during test execution
+screenshots/
+screenshots/**/*.png
+
+# IDE files - Eclipse
+.classpath
+.project
+.settings/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+
